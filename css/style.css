@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+}
+
+div{
+  padding: 8px !important;
+  border:thin solid white;
+}
+
+#rect1{
+  background-color: #87ceeb;
+  height:110px;
+  width:100%;
+}
+
+#rect2{
+  background-color: green;
+  height: 100%;
+  width: auto;
+}
+
+#rect3{
+  background-color: blue;
+  height: 100%;
+  width: auto;
+}
+
+#rect4{
+  background-color: red;
+  height: 100%;
+  width: auto;
+}
+
+#rect5{
+  background-color: yellow;
+  height: 100%;
+  width: auto;
+}
+
+#rect6{
+  background-color: purple;
+  height: 100%;
+  width: auto;
+}
